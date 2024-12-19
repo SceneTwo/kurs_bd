@@ -4820,11 +4820,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arkad\\Downloads\\Proga_kursach\\Proga_kursach\\бд\\бд.csproj",
+      "projectUniqueName": "C:\\Users\\arkad\\OneDrive\\Документы\\курсовая_бд\\Proga_kursach\\kurs_bd\\бд\\бд.csproj",
       "projectName": "бд",
-      "projectPath": "C:\\Users\\arkad\\Downloads\\Proga_kursach\\Proga_kursach\\бд\\бд.csproj",
+      "projectPath": "C:\\Users\\arkad\\OneDrive\\Документы\\курсовая_бд\\Proga_kursach\\kurs_bd\\бд\\бд.csproj",
       "packagesPath": "C:\\Users\\arkad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arkad\\Downloads\\Proga_kursach\\Proga_kursach\\бд\\obj\\",
+      "outputPath": "C:\\Users\\arkad\\OneDrive\\Документы\\курсовая_бд\\Proga_kursach\\kurs_bd\\бд\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4845,8 +4845,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\arkad\\Downloads\\Proga_kursach\\Proga_kursach\\DataBaseLogic\\DataBaseLogic.csproj": {
-              "projectPath": "C:\\Users\\arkad\\Downloads\\Proga_kursach\\Proga_kursach\\DataBaseLogic\\DataBaseLogic.csproj"
+            "C:\\Users\\arkad\\OneDrive\\Документы\\курсовая_бд\\Proga_kursach\\kurs_bd\\DataBaseLogic\\DataBaseLogic.csproj": {
+              "projectPath": "C:\\Users\\arkad\\OneDrive\\Документы\\курсовая_бд\\Proga_kursach\\kurs_bd\\DataBaseLogic\\DataBaseLogic.csproj"
             }
           }
         }

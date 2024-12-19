@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arkad\\Downloads\\Proga_kursach\\Proga_kursach\\DataBaseStorage\\DataBaseStorage.csproj": {}
+    "C:\\Users\\arkad\\OneDrive\\Документы\\курсовая_бд\\Proga_kursach\\kurs_bd\\DataBaseStorage\\DataBaseStorage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arkad\\Downloads\\Proga_kursach\\Proga_kursach\\DataBaseStorage\\DataBaseStorage.csproj": {
+    "C:\\Users\\arkad\\OneDrive\\Документы\\курсовая_бд\\Proga_kursach\\kurs_bd\\DataBaseStorage\\DataBaseStorage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arkad\\Downloads\\Proga_kursach\\Proga_kursach\\DataBaseStorage\\DataBaseStorage.csproj",
+        "projectUniqueName": "C:\\Users\\arkad\\OneDrive\\Документы\\курсовая_бд\\Proga_kursach\\kurs_bd\\DataBaseStorage\\DataBaseStorage.csproj",
         "projectName": "DataBaseStorage",
-        "projectPath": "C:\\Users\\arkad\\Downloads\\Proga_kursach\\Proga_kursach\\DataBaseStorage\\DataBaseStorage.csproj",
+        "projectPath": "C:\\Users\\arkad\\OneDrive\\Документы\\курсовая_бд\\Proga_kursach\\kurs_bd\\DataBaseStorage\\DataBaseStorage.csproj",
         "packagesPath": "C:\\Users\\arkad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arkad\\Downloads\\Proga_kursach\\Proga_kursach\\DataBaseStorage\\obj\\",
+        "outputPath": "C:\\Users\\arkad\\OneDrive\\Документы\\курсовая_бд\\Proga_kursach\\kurs_bd\\DataBaseStorage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"

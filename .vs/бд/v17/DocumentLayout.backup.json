@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\arkad\\Downloads\\Proga_kursach\\Proga_kursach\\",
+  "WorkspaceRootPath": "C:\\Users\\arkad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0431\u0434\\Proga_kursach\\kurs_bd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38E80255-7E9E-4E36-A133-45DA0E1CBA81}|\u0431\u0434\\\u0431\u0434.csproj|c:\\users\\arkad\\downloads\\proga_kursach\\proga_kursach\\\u0431\u0434\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38E80255-7E9E-4E36-A133-45DA0E1CBA81}|\u0431\u0434\\\u0431\u0434.csproj|c:\\users\\arkad\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0431\u0434\\proga_kursach\\kurs_bd\\\u0431\u0434\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38E80255-7E9E-4E36-A133-45DA0E1CBA81}|\u0431\u0434\\\u0431\u0434.csproj|solutionrelative:\u0431\u0434\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38E80255-7E9E-4E36-A133-45DA0E1CBA81}|\u0431\u0434\\\u0431\u0434.csproj|c:\\users\\arkad\\downloads\\proga_kursach\\proga_kursach\\\u0431\u0434\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38E80255-7E9E-4E36-A133-45DA0E1CBA81}|\u0431\u0434\\\u0431\u0434.csproj|c:\\users\\arkad\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0431\u0434\\proga_kursach\\kurs_bd\\\u0431\u0434\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38E80255-7E9E-4E36-A133-45DA0E1CBA81}|\u0431\u0434\\\u0431\u0434.csproj|solutionrelative:\u0431\u0434\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38E80255-7E9E-4E36-A133-45DA0E1CBA81}|\u0431\u0434\\\u0431\u0434.csproj|c:\\users\\arkad\\downloads\\proga_kursach\\proga_kursach\\\u0431\u0434\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38E80255-7E9E-4E36-A133-45DA0E1CBA81}|\u0431\u0434\\\u0431\u0434.csproj|c:\\users\\arkad\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0431\u0434\\proga_kursach\\kurs_bd\\\u0431\u0434\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38E80255-7E9E-4E36-A133-45DA0E1CBA81}|\u0431\u0434\\\u0431\u0434.csproj|solutionrelative:\u0431\u0434\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88B54CFE-14BC-45C5-A9DE-C0E8F1A56842}|DataBaseStorage\\DataBaseStorage.csproj|c:\\users\\arkad\\downloads\\proga_kursach\\proga_kursach\\databasestorage\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88B54CFE-14BC-45C5-A9DE-C0E8F1A56842}|DataBaseStorage\\DataBaseStorage.csproj|c:\\users\\arkad\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0431\u0434\\proga_kursach\\kurs_bd\\databasestorage\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88B54CFE-14BC-45C5-A9DE-C0E8F1A56842}|DataBaseStorage\\DataBaseStorage.csproj|solutionrelative:databasestorage\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arkad\\Downloads\\Proga_kursach\\Proga_kursach\\DataBaseStorage\\Migrations\\20241212185439_r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataBaseStorage\\Migrations\\20241212185439_r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88B54CFE-14BC-45C5-A9DE-C0E8F1A56842}|DataBaseStorage\\DataBaseStorage.csproj|c:\\users\\arkad\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0431\u0434\\proga_kursach\\kurs_bd\\databasestorage\\migrations\\20241212185439_r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B54CFE-14BC-45C5-A9DE-C0E8F1A56842}|DataBaseStorage\\DataBaseStorage.csproj|solutionrelative:databasestorage\\migrations\\20241212185439_r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,47 +30,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\arkad\\Downloads\\Proga_kursach\\Proga_kursach\\\u0431\u0434\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\arkad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0431\u0434\\Proga_kursach\\kurs_bd\\\u0431\u0434\\Form2.cs",
               "RelativeDocumentMoniker": "\u0431\u0434\\Form2.cs",
-              "ToolTip": "C:\\Users\\arkad\\Downloads\\Proga_kursach\\Proga_kursach\\\u0431\u0434\\Form2.cs",
+              "ToolTip": "C:\\Users\\arkad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0431\u0434\\Proga_kursach\\kurs_bd\\\u0431\u0434\\Form2.cs",
               "RelativeToolTip": "\u0431\u0434\\Form2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T21:28:52.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T21:28:52.013Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\arkad\\Downloads\\Proga_kursach\\Proga_kursach\\\u0431\u0434\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\arkad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0431\u0434\\Proga_kursach\\kurs_bd\\\u0431\u0434\\Program.cs",
               "RelativeDocumentMoniker": "\u0431\u0434\\Program.cs",
-              "ToolTip": "C:\\Users\\arkad\\Downloads\\Proga_kursach\\Proga_kursach\\\u0431\u0434\\Program.cs",
+              "ToolTip": "C:\\Users\\arkad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0431\u0434\\Proga_kursach\\kurs_bd\\\u0431\u0434\\Program.cs",
               "RelativeToolTip": "\u0431\u0434\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T19:26:05.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T19:26:05.082Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form2.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\arkad\\Downloads\\Proga_kursach\\Proga_kursach\\\u0431\u0434\\Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\arkad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0431\u0434\\Proga_kursach\\kurs_bd\\\u0431\u0434\\Form2.Designer.cs",
               "RelativeDocumentMoniker": "\u0431\u0434\\Form2.Designer.cs",
-              "ToolTip": "C:\\Users\\arkad\\Downloads\\Proga_kursach\\Proga_kursach\\\u0431\u0434\\Form2.Designer.cs*",
-              "RelativeToolTip": "\u0431\u0434\\Form2.Designer.cs*",
-              "ViewState": "AgIAAEIBAAAAAAAAAAAAAEwBAAA4AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\arkad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0431\u0434\\Proga_kursach\\kurs_bd\\\u0431\u0434\\Form2.Designer.cs",
+              "RelativeToolTip": "\u0431\u0434\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T19:06:02.547Z",
               "EditorCaption": ""
@@ -79,27 +73,25 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "20241212185439_r.cs",
-              "DocumentMoniker": "C:\\Users\\arkad\\Downloads\\Proga_kursach\\Proga_kursach\\DataBaseStorage\\Migrations\\20241212185439_r.cs",
+              "DocumentMoniker": "C:\\Users\\arkad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0431\u0434\\Proga_kursach\\kurs_bd\\DataBaseStorage\\Migrations\\20241212185439_r.cs",
               "RelativeDocumentMoniker": "DataBaseStorage\\Migrations\\20241212185439_r.cs",
-              "ToolTip": "C:\\Users\\arkad\\Downloads\\Proga_kursach\\Proga_kursach\\DataBaseStorage\\Migrations\\20241212185439_r.cs",
+              "ToolTip": "C:\\Users\\arkad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0431\u0434\\Proga_kursach\\kurs_bd\\DataBaseStorage\\Migrations\\20241212185439_r.cs",
               "RelativeToolTip": "DataBaseStorage\\Migrations\\20241212185439_r.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T18:54:39.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T18:54:39.651Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "context.cs",
-              "DocumentMoniker": "C:\\Users\\arkad\\Downloads\\Proga_kursach\\Proga_kursach\\DataBaseStorage\\context.cs",
+              "DocumentMoniker": "C:\\Users\\arkad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0431\u0434\\Proga_kursach\\kurs_bd\\DataBaseStorage\\context.cs",
               "RelativeDocumentMoniker": "DataBaseStorage\\context.cs",
-              "ToolTip": "C:\\Users\\arkad\\Downloads\\Proga_kursach\\Proga_kursach\\DataBaseStorage\\context.cs",
+              "ToolTip": "C:\\Users\\arkad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0431\u0434\\Proga_kursach\\kurs_bd\\DataBaseStorage\\context.cs",
               "RelativeToolTip": "DataBaseStorage\\context.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T18:46:58.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T18:46:58.191Z"
             }
           ]
         }
