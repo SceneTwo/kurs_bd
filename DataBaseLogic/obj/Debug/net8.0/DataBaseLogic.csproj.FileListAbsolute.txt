@@ -1,0 +1,17 @@
+C:\Users\arkad\Downloads\Proga_kursach\Proga_kursach\DataBaseLogic\bin\Debug\net8.0\DataBaseLogic.deps.json
+C:\Users\arkad\Downloads\Proga_kursach\Proga_kursach\DataBaseLogic\bin\Debug\net8.0\DataBaseLogic.runtimeconfig.json
+C:\Users\arkad\Downloads\Proga_kursach\Proga_kursach\DataBaseLogic\bin\Debug\net8.0\DataBaseLogic.dll
+C:\Users\arkad\Downloads\Proga_kursach\Proga_kursach\DataBaseLogic\bin\Debug\net8.0\DataBaseLogic.pdb
+C:\Users\arkad\Downloads\Proga_kursach\Proga_kursach\DataBaseLogic\bin\Debug\net8.0\DataBaseStorage.dll
+C:\Users\arkad\Downloads\Proga_kursach\Proga_kursach\DataBaseLogic\bin\Debug\net8.0\DataBaseStorage.pdb
+C:\Users\arkad\Downloads\Proga_kursach\Proga_kursach\DataBaseLogic\obj\Debug\net8.0\DataBaseLogic.csproj.AssemblyReference.cache
+C:\Users\arkad\Downloads\Proga_kursach\Proga_kursach\DataBaseLogic\obj\Debug\net8.0\DataBaseLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkad\Downloads\Proga_kursach\Proga_kursach\DataBaseLogic\obj\Debug\net8.0\DataBaseLogic.AssemblyInfoInputs.cache
+C:\Users\arkad\Downloads\Proga_kursach\Proga_kursach\DataBaseLogic\obj\Debug\net8.0\DataBaseLogic.AssemblyInfo.cs
+C:\Users\arkad\Downloads\Proga_kursach\Proga_kursach\DataBaseLogic\obj\Debug\net8.0\DataBaseLogic.csproj.CoreCompileInputs.cache
+C:\Users\arkad\Downloads\Proga_kursach\Proga_kursach\DataBaseLogic\obj\Debug\net8.0\DataBase.7DB691AD.Up2Date
+C:\Users\arkad\Downloads\Proga_kursach\Proga_kursach\DataBaseLogic\obj\Debug\net8.0\DataBaseLogic.dll
+C:\Users\arkad\Downloads\Proga_kursach\Proga_kursach\DataBaseLogic\obj\Debug\net8.0\refint\DataBaseLogic.dll
+C:\Users\arkad\Downloads\Proga_kursach\Proga_kursach\DataBaseLogic\obj\Debug\net8.0\DataBaseLogic.pdb
+C:\Users\arkad\Downloads\Proga_kursach\Proga_kursach\DataBaseLogic\obj\Debug\net8.0\DataBaseLogic.genruntimeconfig.cache
+C:\Users\arkad\Downloads\Proga_kursach\Proga_kursach\DataBaseLogic\obj\Debug\net8.0\ref\DataBaseLogic.dll
